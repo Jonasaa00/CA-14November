@@ -9,8 +9,9 @@ body, html{
 }
 
 .hero-banner{
+    margin-top: 0px;
     height: 80px;
-    width: 350px;
+    width: 375px;
     background-color: #774dce;
 }
 
@@ -27,7 +28,7 @@ margin-right: 27,5px;
 
 .hero-text{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
+    font-size: 18px;
     color: #fff;
     text-align: center;
 }
@@ -61,5 +62,33 @@ margin-right: 27,5px;
     outline: #B6188A;
 }
 
+.columns{
+
+}
+
+.games{
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+
+.pre-order{
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.sell-games{
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.pre-owned-games{
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
 
 
