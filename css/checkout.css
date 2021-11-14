@@ -1,0 +1,29 @@
+body, html{
+    margin: 0%;
+    height: 100%;
+ }
+ 
+ .container{
+     overflow: auto;
+ }
+ 
+ .hero_banner{
+     height: 80px;
+     width: 100%;
+     background-color: #774dce;
+ }
+ 
+ .gamehub_logo{
+     float: left;
+     height: 40px;
+     margin-left: 20px;
+     margin-top: 20px;
+ }
+ 
+ .fa-home{
+     float: right;
+     font-size: 30px;
+     color: #fff;
+     margin-top: 20px;
+     margin-right: 20px;
+ }
